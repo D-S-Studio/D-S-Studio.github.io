@@ -1,8 +1,5 @@
 //FB
 facebook.com, 766609875441090, RESELLER, c3e20eee3f780d68
-//admob
-google.com, pub-9672631339932224, DIRECT, f08c47fec0942fa0
-google.com, pub-4476837174583683, DIRECT, f08c47fec0942fa0
 //max
 applovin.com, a11046adbb2aba14722173c45b5896bc, DIRECT
 algorix.co, 60532, RESELLER, 5b394c12fea27a1d
