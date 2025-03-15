@@ -1,6 +1,5 @@
 //admob
 google.com, pub-9391699491612721, DIRECT, f08c47fec0942fa0
-
 //max
 applovin.com, a11046adbb2aba14722173c45b5896bc, DIRECT
 algorix.co, 60532, RESELLER, 5b394c12fea27a1d
