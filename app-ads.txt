@@ -1,5 +1,4 @@
 google.com, pub-9391699491612721, DIRECT, f08c47fec0942fa0
-google.com, pub-9391699491612721, DIRECT, f08c47fec0942fa0
 facebook.com, 644789777934417, DIRECT, c3e20eee3f780d68
 applovin.com, a11046adbb2aba14722173c45b5896bc, DIRECT
 adyoulike.com, 2d578cf695c89ec2ba707280319d2020, RESELLER
@@ -218,6 +217,7 @@ algorix.co, 54616, RESELLER, 5b394c12fea27a1d
 playwire.com, 1018531, RESELLER
 playwire.com, 1025119, RESELLER
 pubwise.io, 22376824, RESELLER, c327c91a93a7cdd3
+
 
 
 
